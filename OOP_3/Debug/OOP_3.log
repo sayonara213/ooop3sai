@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\maxsa\source\repos\OOP_3\OOP_3\Source.cpp(29,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maxsa\source\repos\OOP_3\OOP_3\Source.cpp(47,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OOP_3.vcxproj -> C:\Users\maxsa\source\repos\OOP_3\Debug\OOP_3.exe
